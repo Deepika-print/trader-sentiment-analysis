@@ -37,16 +37,6 @@ Simple idea:
 
 ---
 
----
-
-##📦 6. `requirements.txt`
-
-```txt
-pandas
-matplotlib
-
----
-
 ## 🚀 Run
 
 ```bash
